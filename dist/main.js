@@ -1,1 +1,1 @@
-console.log("test");
+(()=>{"use strict";console.log("test"),function(){const e=document.querySelector("#content"),t=document.createElement("h1");t.textContent="Please eat my sketti",e.appendChild(t);const n=document.createElement("img");n.src="../src/sketti.jpg",e.appendChild(n);const c=document.createElement("p");c.textContent="Blew my balls off - Phil",e.appendChild(c)}()})();
