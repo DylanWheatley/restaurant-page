@@ -1,5 +1,45 @@
+
+
+
+
+
 .tab {
     width: 100%;
     height: 2rem;
-    outline: 1px solid black;
+    border: 1px solid black;
+}
+
+#content {
+    width: 70%;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    padding: 2rem;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+.btnDiv {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 2px;
+}
+
+button {
+    margin: .2rem;
+    width: 3.5rem;
+}
+
+.test {
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    padding: 2rem;
 }
